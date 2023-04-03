@@ -3,7 +3,7 @@ Chrome extention for exporting bets from Underdog Fantasy "picke-em" or parlay b
 
 ### 1. Load the extension in chrome.
 
-### 2. Login to undersog and navigate to picke/results page.
+### 2. Login to underdog and navigate to pick'em/results page.
 
 ### 3. Run the extension, choose the date range you want to pull.
 
