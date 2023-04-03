@@ -1,0 +1,33 @@
+{
+  "name": "pokemontcgsdk",
+  "version": "2.0.0",
+  "description": "Pokémon TCG SDK is a javascript wrapper around the Pokémon TCG API located at pokemontcg.io",
+  "author": {
+    "name": "Andrew Backes",
+    "email": "backes.andrew@gmail.com",
+    "url": "https://github.com/PokemonTCG/pokemon-tcg-sdk-javascript"
+  },
+  "license": "MIT",
+  "main": "lib/index.js",
+  "module": "es/index.js",
+  "files": [
+    "es",
+    "lib",
+    "umd"
+  ],
+  "scripts": {
+    "build": "nwb build-web-module",
+    "clean": "nwb clean-module",
+    "prepublishOnly": "npm run build",
+    "test": "nwb test",
+    "test:coverage": "nwb test --coverage",
+    "test:watch": "nwb test --server"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "qs": "^6.9.6"
+  },
+  "devDependencies": {
+    "nwb": "0.25.x"
+  }
+}
