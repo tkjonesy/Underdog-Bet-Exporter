@@ -9,4 +9,4 @@ Chrome extention for exporting bets from Underdog Fantasy "picke-em" or parlay b
 
 ### 4. When it's finished, right-click on the page and save the page as "Webpage, Single File" (.mhtml).
 
-### 5. Open and run the jupyter notebook to exctract the data into an excel file.
+### 5. Open and run the jupyter notebook to extract the data into an excel file.
