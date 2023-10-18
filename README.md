@@ -52,6 +52,7 @@ Once you're confident in these areas, you can proceed with the project. Follow t
 **5. Run Underdog Bet Exporter.ipynb (Be sure to check the settings below)**
 
 `driver = uc.Chrome(version_main=118)`
+
 `html_file = Path.cwd() / 'Underdog Fantasy_ Results.mhtml'`
 
 **6. Run the export cell (any unknown/mismatch leagues will be set to "Unknown" in the excel file. Update the league dictionary to fix this or manually change it in the excel file)**
