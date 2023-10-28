@@ -1,6 +1,6 @@
 # Underdog Bets Exporter
 
-Welcome to the Underdog Bets Exporter Repository! This repository contains the code and project files from my chorme extension and extraction scipt in js and python. This project's aim is to leverage Web Scraping to extract bet data on Underdog Fantasy from their "Pick'em" results which cannot be exported at this time by default.
+Welcome to the Underdog Bets Exporter Repository! This repository contains the code and project files from my chrome extension and extraction script in js and python. This project's aim is to leverage Web Scraping to extract bet data on Underdog Fantasy from their "Pick'em" results which cannot be exported at this time by default.
 ## Table of Contents
 
 - [Getting Started](#getting-started)
