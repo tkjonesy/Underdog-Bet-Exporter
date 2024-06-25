@@ -45,7 +45,7 @@ Once you're confident in these areas, you can proceed with the project. Follow t
 
 ![Run Extension](/images/date.PNG?raw=true "Run Extension")
 
-**4. Save the page as "Webpage, Single Flie" in the same directory as the cloned repo**
+**4. Save the page as "Webpage, Single File" in the same directory as the cloned repo**
 
 ![Save Page](/images/save-page.PNG?raw=true "Save Page")
 
